@@ -2,5 +2,6 @@
 my1stProject
 
 Hello World,
+my name is Matthias A. Schmitt.
 
-my name is Matthias Armin Schmitt.
+Besser, oder?
